@@ -15,3 +15,16 @@ b) A Project Manager is responsible for seting the directions of the
  a scrum master is resoinsible for Jira tooling, facilitating sprints
  and other scrum related tasks
 
+c) Three types of meetings:
+
+ Sprint Planning- 
+ - Determine what to complete
+ - Move stories in sprint scope from backlog to sprint
+
+ Daily Standup-
+ - Discuss work completed
+ - Discuss Blockers
+
+ Sprint Retrospective meeting:
+ - Discuss work complete and move incomplete work to backlog
+ - Close Sprint
