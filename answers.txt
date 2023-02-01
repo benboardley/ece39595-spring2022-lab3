@@ -9,3 +9,8 @@ pros:
 cons:
 - Fragmented output
 - Collaboration can be difficult to maintain because of seperated teams
+
+b) A Project Manager is responsible for seting the directions of the
+ team, handling release management and stakeholder management while 
+ a scrum master is resoinsible for Jira tooling, facilitating sprints
+ and other scrum related tasks
