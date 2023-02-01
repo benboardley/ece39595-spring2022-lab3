@@ -28,3 +28,13 @@ c) Three types of meetings:
  Sprint Retrospective meeting:
  - Discuss work complete and move incomplete work to backlog
  - Close Sprint
+
+d) differentiate between Epic, Story, Bug, Task:
+
+Epic- Captures a large body of work that can be broken into smaller stories
+
+Story - A software system requirement that is expressed in a fewshort sentences
+
+Bug - Indicates there is malfunctioning in the software
+
+Task - Single to-dos
