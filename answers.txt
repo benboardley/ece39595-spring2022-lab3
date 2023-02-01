@@ -1,0 +1,10 @@
+a) pros and cons of agile development:
+
+pros:
+- more resilient to scope changes
+- emphasis on Devops
+- constant value added to customer
+
+cons:
+- Fragmented output
+- Collaboration can be difficult to maintain because of seperated teams
